@@ -1,0 +1,56 @@
+.nav-container {
+	background: #FFFFFF;
+	height: 72px;
+	box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.07);
+}
+
+#button-login {
+	background-color: #8B4E6D;
+	font-weight: 550;
+	padding: 8px 38px;
+	box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.07);
+	border-radius: 8px;
+	display: inline-block;
+	transition: 300ms;
+}
+
+.wrapper {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 72px;
+}
+
+nav ul {
+	display: flex;
+}
+
+li a:hover {
+	color: #8B4E6D;
+}
+
+.menu-navbar li {
+	list-style: none;
+	margin-right: 95px;
+	padding-top: 7px;
+}
+
+.menu-navbar li:nth-last-of-type(1) {
+	margin: 0;
+	margin-left: 2px;
+}
+
+.menu-navbar li a {
+	color: #000000;
+	font-family: Poppins;
+	text-decoration: none;
+}
+
+#gambar_profile {
+	object-fit: fill;
+}

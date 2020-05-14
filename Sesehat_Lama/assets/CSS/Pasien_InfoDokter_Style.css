@@ -1,0 +1,11 @@
+.img-crop {
+    object-fit: none;
+    
+    width: 100%;
+    height: inherit;
+    
+}
+
+ul.profil-data-list li {
+    padding: 0.4em;
+}
