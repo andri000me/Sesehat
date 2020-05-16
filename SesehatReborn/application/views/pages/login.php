@@ -18,6 +18,13 @@
     <link rel="stylesheet" href="<?= base_url('assets/') ?>CSS/FormInput_Style.css" type="text/css">
     <link rel="stylesheet" href="<?= base_url('assets/') ?>CSS/Global_Style.css" type="text/css">
     <title>Login</title>
+    <script>
+        $(document).ready(function(){
+            $("h1").click(function(){
+                $("h1").hide();
+            });
+        });
+    </script>
 </head>
 
 <body>

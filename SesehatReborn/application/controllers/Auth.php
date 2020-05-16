@@ -90,4 +90,16 @@ class Auth extends CI_Controller
         Kamu berhasil melakukan Logout :)</div>');
         redirect('Auth/login');
     }
+    public function contactus()
+    {
+        $url = "./application/views/author.json";
+		$get_url = file_get_contents($url);
+		$data = json_decode($get_url);
+
+		$data_array = array(
+			'datalist' => $data
+		);
+		$this->load->view('pages/ContactUs', $data_array);
+    }
+    
 }

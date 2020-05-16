@@ -1,0 +1,33 @@
+[
+    {
+        "NIM": "1301184124",
+        "Nama": "Muhammad Rafif",
+        "body": "FullStack",
+        "Nohp": "082121262273",
+        "pict": "rafif.jpeg"
+    }, {
+        "NIM": "1301180513",
+        "Nama": "Fadrianto Sulistiyorahman",
+        "body": "Front End",
+        "Nohp": "081299127857",
+        "pict": "anto.jpeg"
+    }, {
+        "NIM": "1301184164",
+        "Nama": "Adri Nur Fajari",
+        "body": "Front End",
+        "Nohp": "081398030151",
+        "pict": "adri.jpeg"
+    }, {
+        "NIM": "1301180341",
+        "Nama": "Hanif Reangga Alhakiem",
+        "body": "Front End",
+        "Nohp": "081774843498",
+        "pict": "hanif.jpeg"
+    }, {
+        "NIM": "1301180221",
+        "Nama": "Pande Komang Yoga S.",
+        "body": "Front End",
+        "Nohp": "08112223449",
+        "pict": "yoga.jpeg"
+    }
+]
